@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EggWatch</string>
+
+    <!-- Placeholders -->
+
+    <string name="start_stop">START / STOP</string>
+    <string name="Hard">Hård Kogt</string>
+    <string name="Medium">Smilende</string>
+    <string name="Soft">Blød Kogt</string>
+
+</resources>
