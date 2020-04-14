@@ -66,7 +66,6 @@ public class MainActivity extends AppCompatActivity implements EggTimerPresenter
         countdown.setText(showTime());
     }
 
-
     //methods from EggTimerPresenter.View interface.
 
     @Override
